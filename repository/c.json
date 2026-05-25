@@ -2339,7 +2339,7 @@
 					"tags": true
 				}
 			]
-		},		
+		},
 		{
 			"name": "CodeStats",
 			"details": "https://github.com/code-stats/code-stats-sublime",
@@ -3133,8 +3133,9 @@
 			]
 		},
 		{
-			"name": "Commandbox",
+			"name": "CommandBox",
 			"details": "https://github.com/Ortus-Solutions/sublime-commandbox",
+            "labels": ["boxlang","cfml","package_manager","cli","server","jvm","java"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",
