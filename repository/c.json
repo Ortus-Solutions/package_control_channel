@@ -3133,7 +3133,7 @@
 			]
 		},
 		{
-			"name": "CommandBox",
+			"name": "Commandbox",
 			"details": "https://github.com/Ortus-Solutions/sublime-commandbox",
             "labels": ["boxlang","cfml","package_manager","cli","server","jvm","java"],
 			"releases": [
