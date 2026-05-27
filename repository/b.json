@@ -1415,7 +1415,7 @@
         {
 			"name": "BoxLang",
 			"details": "https://github.com/ortus-boxlang/sublimetext-boxlang",
-            "labels": [ "boxlang", "cfml", "server", "jvm", "matchbox", "miniserver", "java", "serverless", "desktop", "spring-boot" ],
+            "labels": [ "boxlang", "cfml", "jvm", "formatting", "language syntax", "java", "build system", "completions", "auto-complete", "utilities" ],
 			"releases": [
 				{
 					"sublime_text": ">=3000",
